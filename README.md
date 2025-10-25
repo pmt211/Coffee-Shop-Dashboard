@@ -74,4 +74,56 @@ SWITCH(
     Percent growth = ( [Latest Month Sales] - [Previous Month Sales] ) /[Previous Month Sales]
     ```
   # Insight
-  
+### Product Performance
+
+Sales concentration:
+- Latte, Americano with Milk, and Cappuccino are the **top sellers**
+- These products generate **most of the total revenue**
+- Strong preference for milk-based beverages
+
+Growth opportunity:
+- Espresso and Cortado currently have **low sales volume** but show **exceptional MoM growth**:
+- Espresso: **+300% MoM growth**
+- Cortado: **+138% MoM growth**
+
+⇒ Although they are the lowest sellers, the strong growth rate indicates **underleveraged demand**. The coffee shop should not remove them, but instead **promote and increase visibility** to diversify the menu and reduce seasonality risk
+
+### Critical Sales Trend: Major fall from March to April
+
+**The abnormality:**
+- The “Sales by Month” chart shows a **sharp decline** from **$15k** in March to **$5k** in April
+
+**Recovery pattern:**
+- Sales gradually **recover** over the subsequent months (**May, June, July**)
+
+⇒ This might not be a typical seasonal fluctuation but a **significant business event** that requires **root cause analysis**
+
+
+### Customer Behavior & Pricing Strategy
+
+**Price preference:**
+- Sales are concentrated in **Mid and Premium** price tiers
+- **Low-tier** shows minimal sales
+- Higher-priced items like **Latte** and **Cappuccino** are also the **top sellers**
+
+⇒ The data shows a clear **correlation between price and sales volume**. It means that customers are **willing to pay more for perceived quality** and indicates a **successful value proposition**
+
+**Seasonality:**
+- **Autumn** is the **top season** (**29.01%** of units sold)
+- The least sales were recorded in **Summer** (**20.6%** of units sold)
+
+⇒ Sales are **relatively distributed fairly year-round**. This suggests **little extreme seasonal fluctuations**
+
+**Weekday consumption:**
+- More orders are made on **Monday and Tuesday**, outperforming the **weekend**
+- **Morning and Night** also show the highest demand
+
+⇒ The majority of customers at the coffee shop **buy coffee because of a daily habit**, not primarily for **social or leisure consumption**
+
+## Dashboard Report 
+
+<img width="1507" height="821" alt="Screenshot 2025-10-26 002155" src="https://github.com/user-attachments/assets/a32d89bc-f959-4639-afbc-61d57d4eb9da" />
+
+
+<img width="1500" height="828" alt="Screenshot 2025-10-26 002251" src="https://github.com/user-attachments/assets/84e832ed-bdd2-4e94-941c-62fb909a2859" />
+
