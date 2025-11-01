@@ -73,15 +73,17 @@ SWITCH(
     ```
     Percent growth = ( [Latest Month Sales] - [Previous Month Sales] ) /[Previous Month Sales]
     ```
-  # Insight
+  # Insights and Recommendations
 ### Product Performance
 
-Sales concentration:
+**Sales concentration:**
 - Latte, Americano with Milk, and Cappuccino are the **top sellers**
 - These products generate **most of the total revenue**
 - Strong preference for milk-based beverages
 
-Growth opportunity:
+⇒ **Maintain prime menu placement** and introduce **seasonal versions** (such as flavored, plant-based milks) to sustain and improve performance
+
+**Growth opportunity:**
 - Espresso and Cortado currently have **low sales volume** but show **exceptional MoM growth**:
 - Espresso: **+300% MoM growth**
 - Cortado: **+138% MoM growth**
@@ -108,17 +110,24 @@ Growth opportunity:
 
 ⇒ The data shows a clear **correlation between price and sales volume**. It means that customers are **willing to pay more for perceived quality** and indicates a **successful value proposition**
 
+⇒ The business should continue its **value-based pricing** and introduce **add-on upsells** (such as extra shots, specialty syrups) to **increase average ticket size**
+
 **Seasonality:**
 - **Autumn** is the **top season** (**29.01%** of units sold)
 - The least sales were recorded in **Summer** (**20.6%** of units sold)
 
 ⇒ Sales are **relatively distributed fairly year-round**. This suggests **little extreme seasonal fluctuations**
 
+⇒ Launch **targeted seasonal campaigns** (such as summer menu with iced drinks) to **optimize sales year-round**
+
 **Weekday consumption:**
 - More orders are made on **Monday and Tuesday**, outperforming the **weekend**
 - **Morning and Night** also show the highest demand
 
 ⇒ The majority of customers at the coffee shop **buy coffee because of a daily habit**, not primarily for **social or leisure consumption**
+
+⇒ Campaigns like **weekend subscription reductions** and **time-based promotions** (such as running a noon discount program from 3 pm to 7 pm) need to be launched to **boost loyalty and attract more customers during low-demand periods**
+
 
 ## Dashboard Report 
 
