@@ -73,7 +73,7 @@ SWITCH(
     ```
     Percent growth = ( [Latest Month Sales] - [Previous Month Sales] ) /[Previous Month Sales]
     ```
-  # Insights and Recommendations
+ # Insights and Recommendations
 ### Product Performance
 
 **Sales concentration:**
